@@ -1,0 +1,19 @@
+h1{
+  color: #AFEEAA;
+  font-style: sans-serif;
+  text-align: right;
+}
+
+p{
+  font-family: times;
+  text-align: center;
+}
+
+ul{
+  font-size: 30px;
+  line-height: 30px;
+}
+
+body{
+  background-color: #A9A9A9;
+}
